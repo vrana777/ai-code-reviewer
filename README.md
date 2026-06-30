@@ -27,7 +27,6 @@ Make sure you have Python, Node.js, and PostgreSQL installed on your machine.
    cd backend
 2. Create and activate a virtual environment:
    python -m venv venv
- # On Windows:
    venv\Scripts\activate
 3. Install required packages:
    pip install -r requirements.txt
